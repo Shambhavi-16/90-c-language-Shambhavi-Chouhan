@@ -6,7 +6,7 @@ int main(){
   printf("enter no.2:");
   scanf("%d",&b);
   c=a%b;
-  printf("%d",c);
+  printf("%d\n",c);
   printf("My name is Shambhavi Chouhan and I am solving question 4");
   return 0;
   
