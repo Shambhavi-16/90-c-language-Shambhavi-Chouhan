@@ -8,6 +8,7 @@ int main()
     int max;
     max=(a>b)?a:b;
     printf("\n%d",max);
+    printf("My name is Shambhavi Chouhan and I am solving question 12");
 
     return 0;
 }
