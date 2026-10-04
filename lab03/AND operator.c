@@ -11,5 +11,6 @@ int main()
      else {
         printf("at least one of them is negative");
      }
+     printf("My name is Shambhavi Chouhan and I am solving question 7");
      return 0;
 }
