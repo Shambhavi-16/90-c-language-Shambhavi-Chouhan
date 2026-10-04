@@ -10,7 +10,7 @@ int main()
         printf("Sum of first %d natural numbers = %d\n", i, Sum);
     }
     printf("Sum of natural numbers = %d\n", Sum);
-    printf("My name is Shambhavi Chouhan and I am solving question 17");
+    printf("My name is Shambhavi Chouhan and I am solving question 18");
     
     return 0;
 }
