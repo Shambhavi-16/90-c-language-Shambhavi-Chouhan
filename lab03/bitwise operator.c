@@ -11,7 +11,7 @@ int main()
     printf("\n%d",~a);
     printf("\n%d",a<<b);
     printf("\n%d",a>>b);
-    printf("My name is Shambhavi Chouhan and I am solving question 11");
+    printf("My name is Shambhavi Chouhan and I am solving question 10");
 
   return 0;
 }
