@@ -13,7 +13,7 @@ int main()
          printf("it is num1 %d\n",num1);
          num2=nextnum;
          printf("it is num2 %d\n",num2);
-          printf("My name is Shambhavi Chouhan and I am solving question 16");
+          printf("My name is Shambhavi Chouhan and I am solving question 17");
      }
      return 0;
 }
