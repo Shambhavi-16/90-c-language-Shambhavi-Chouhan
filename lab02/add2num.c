@@ -7,5 +7,6 @@ int main(){
   scanf("%d",&b);
   c=a+b;
   printf("%d",c);
+  printf("My name is Shambhavi Chouhan and I am solving question 2");
   return 0;
 }
