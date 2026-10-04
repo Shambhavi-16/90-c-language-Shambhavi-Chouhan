@@ -12,7 +12,8 @@ int main()
     }
     else
     {
-        printf("%d", c);
+        printf("%d\n", c);
+        printf("My name is Shambhavi Chouhan and I am solving question 18");
     }
     return 0;
 }
