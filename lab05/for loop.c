@@ -9,6 +9,8 @@ int main()
         Sum =Sum + i;
         printf("Sum of first %d natural numbers = %d\n", i, Sum);
     }
-    printf("Sum of natural numbers = %d", Sum);
+    printf("Sum of natural numbers = %d\n", Sum);
+    printf("My name is Shambhavi Chouhan and I am solving question 17");
+    
     return 0;
 }
